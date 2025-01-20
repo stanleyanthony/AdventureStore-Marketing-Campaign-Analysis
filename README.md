@@ -11,7 +11,7 @@
 
 ## 1. Understanding the Business Problem
 
-### - Business Problem / Key Points
+### Business Problem / Key Points
 
 AdventureStore, an online retail business, is facing reduced customer 
 engagement and conversion rates despite launching several new online 
