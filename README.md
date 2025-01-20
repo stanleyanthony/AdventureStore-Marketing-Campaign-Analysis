@@ -57,7 +57,7 @@ AdventureStore, an online retail business, is facing reduced customer engagement
 
 ## 3. Data Cleaning with SQL 
 
-Cleaning the data with SQL preparing for Insight - Check out [the Code][The Codes/SQL Query.sql] 
+Cleaning the data with SQL preparing for Insight - Check out [the Code]([The Codes/SQL Query.sql](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/SQL%20Query.sql) 
 
 
 
