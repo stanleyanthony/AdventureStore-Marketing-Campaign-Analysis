@@ -86,6 +86,11 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
    - It is also note worthy to say that some product has higher conversion rate like Hockey Stick 15.5%, Ski Boots 14.6%, and Baseball Glove 13.7%. Swimming Giggle had the lowest engagement of 5.6%.
 
+### 2. Customer Engagement: 
+- Customer engagement shows a steady decline from January to December in Views from over 900k to 510k views, which also reflect drops in Clicks 226k to 75k and Likes 59k to little over 13k.
+![image](https://github.com/user-attachments/assets/205448bd-27a9-40c1-a9e8-b55d4a5de2ac)
+
+
 
 
 
