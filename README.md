@@ -36,20 +36,23 @@ strategies.
 1. To Increased Conversion Rate:
 
    **Goals:** Identify factors affecting conversion rate and provide recommendations 
-          to improve it
+          to improve it.
+   
    **Insight:** Highlight key stages where visitors drop off and suggest ways 
           to optimize the conversion funnel
 
-2. To Enhanced Customer Engagement:
+3. To Enhanced Customer Engagement:
 
-   **Goals:** Identify the type of contents that attract the highest engagement
+   **Goals:** Identify the type of contents that attract the highest engagement.
+   
    **Insight:** Analyze interaction with various types of marketing contents for 
           enhanced decision making
 
-3. To Improve Customer Feedback Score:
+5. To Improve Customer Feedback Score:
 
    Goals: Identify common patterns in customer reviews for better/improve 
-          decision making
+          decision making.
+   
    Insight: Analyze customer ratings and feedback to identify recurring 
           positive and negative feedbacks to enable products and service improvement
 
