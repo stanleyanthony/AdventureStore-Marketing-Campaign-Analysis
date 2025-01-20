@@ -76,8 +76,7 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
 ## 5. Using Power BI to build interactive dashboard
 
-![Overview Dashboard](https://github.com/user-attachments/assets/9e753c89-89e9-4e9c-b093-137cdd47beb0)
-"Overview Dashboard")
+![Overview Dashboard](https://github.com/user-attachments/assets/9e753c89-89e9-4e9c-b093-137cdd47beb0) "Overview Dashboard")
 
 
 
