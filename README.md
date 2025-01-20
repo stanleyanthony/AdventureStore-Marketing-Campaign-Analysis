@@ -20,15 +20,10 @@ detailed analysis and identify areas for improvement in their marketing
 strategies.
 
 #### - Key Points
-1. Decreased Conversion Rate :  
-    Low conversion rate probably due to decreased in customer engagement
-2. Reduced Customer Engagement: 
-    The number of customer engagements have decreased over time which has led to low ROI
-3. High Marketing Campaign: 
-    Increased in campaign expenses
-4. Analysis on customer feedbacks: 
-    Understanding customer pain point, behavior, and opinions on products 
-    and services for better engagement and conversion rate.
+1. Decreased Conversion Rate: Low conversion rate probably due to decreased in customer engagement
+2. Reduced Customer Engagement: The number of customer engagements have decreased over time which has led to low ROI
+3. High Marketing Campaign: Increased in campaign expenses
+4. Analysis on customer feedbacks: Understanding customer pain point, behavior, and opinions on products and services for better engagement and conversion rate.
 
 
 #### - Goals
