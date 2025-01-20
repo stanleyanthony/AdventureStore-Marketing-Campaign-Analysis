@@ -68,15 +68,23 @@ AdventureStore, an online retail business, is facing reduced customer engagement
 
 Cleaning the data with SQL and preparing for visualization and Insight - Check out the [SQL Code](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/SQL%20Query.sql) 
 
+***
+
 
 ## 4. Advance sentiment analysis with Python
 
 Carrying out sentiment analysis with Python - Check out the [Python Code](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/Python%20-%20customer_reviews_sentiment_analysis.py) 
 
+***
 
-## 5. Using Power BI to build interactive dashboard
+## 5. Visualization and Insights using Power BI
 
 ![Overview Dashboard](https://github.com/user-attachments/assets/9e753c89-89e9-4e9c-b093-137cdd47beb0)
+
+### 1. Conversion rate: 
+   - Conversion rate took a dip from 17.3% in January to 10.2% in February and further down to in May. Although there were rebounds in 7.6% June 10.5% and September 12.2%. There was a consistent upward trend towards the end of the year. Also the click through rate stood at 19.7%, while the conversion rate at 9.6%
+
+   - It is also note worthy to say that some product has higher conversion rate like Hockey Stick 15.5%, Ski Boots 14.6%, and Baseball Glove 13.7%. Swimming Giggle had the lowest engagement of 5.6%.
 
 
 
