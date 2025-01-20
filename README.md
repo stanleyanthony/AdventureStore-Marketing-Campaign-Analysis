@@ -1,6 +1,6 @@
 # AdventureStore-Marketing-Campaign-Analysis
 
-## Steps In Tackling The Business Case
+### Steps In Tackling The Business Case
 
  1. Understanding the Business Problem and the Data
  2. Data Cleaning with SQL for Insight
