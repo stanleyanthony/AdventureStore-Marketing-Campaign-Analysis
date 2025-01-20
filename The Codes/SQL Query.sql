@@ -3,7 +3,7 @@ Use MarketingAnalytics;
 
 --------------------------------------------------------------------------------------------------------------------
 
--- WORKING ON THE PRODUCTS TBLE
+-- WORKING ON THE PRODUCTS DATA TABLE
 
 SELECT *
 FROM products;
@@ -24,7 +24,7 @@ ORDER BY PriceCategory;
 
 --------------------------------------------------------------------------------------------------------------------
 
--- WORKING ON THE CUSTOMER AND GEOGRAPHY TABLES
+-- WORKING ON THE CUSTOMER AND GEOGRAPHY DATA TABLES
 
 SELECT *
 FROM customers;
@@ -55,7 +55,7 @@ geography g ON c.GeographyID = g.GeographyID;
 
 -------------------------------------------------------------------------------------------------------------------
 
--- WORKING ON THE CUSTOMER REVIEW TABLE
+-- WORKING ON THE CUSTOMER REVIEWS DATA TABLE
 
 SELECT *
 FROM customer_reviews;
@@ -72,7 +72,7 @@ FROM customer_reviews;
 
 -------------------------------------------------------------------------------------------------------------------
 
--- WORKING ON THE ENGAGEMENT DATA
+-- WORKING ON THE ENGAGEMENT DATA TABLE
 
 SELECT *
 FROM engagement_data;
@@ -95,7 +95,7 @@ WHERE
 
 -------------------------------------------------------------------------------------------------------------------
 
--- WORKING ON CUSTOMER JOURNEY DATA
+-- WORKING ON CUSTOMER JOURNEY DATA TABLE
 
 SELECT *
 FROM customer_journey;
