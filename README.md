@@ -13,7 +13,7 @@
 
 ## 1. Project Purpose
 
-Analyzing Adventure Store Marketing Data to identify why there has benn decrease in sales, and help increase sales and customers engagements 
+Analyzing Adventure Store Marketing Data to identify why there is decrease in conversion rate, low customer engagements, reduced ROI despite increase in marketing budget; To evaluate the effectiveness of its current strategies, uncover opportunities to optimize their campaign efforts, and provide recommendations to increase conversion rates.
 
 
 ## 2. Understanding the Business Problem
@@ -55,9 +55,11 @@ AdventureStore, an online retail business, is facing reduced customer engagement
           positive and negative feedbacks to enable products and service improvement
 
 
-## 3. Data Cleaning with SQL 
+## 3. Data Cleaning with SQL and Sentiment analysis with Python 
 
-Cleaning the data with SQL preparing for Insight - Check out the [SQL Code](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/SQL%20Query.sql) 
+leaning the data with SQL and preparing for visualization and Insight - Check out the [SQL Code](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/SQL%20Query.sql) 
+
+Carrying out sentiment analysis with Python - Check out the [Python Code](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/Python%20-%20customer_reviews_sentiment_analysis.py) 
 
 
 
