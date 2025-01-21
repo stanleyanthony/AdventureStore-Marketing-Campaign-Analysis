@@ -12,20 +12,20 @@
  7. [Recommendations](#recommendations)
 
 
-## 1. Project Purpose
+## Project Purpose
 
 Analyzing Adventure Store Marketing Data to identify why there is decrease in conversion rate, low customer engagements, reduced ROI despite increase in marketing budget; To evaluate the effectiveness of its current strategies, uncover opportunities to optimize its campaign efforts, and provide recommendations to increase conversion rates.
 
 
 
-## 2. Tools used
+## Tools used
  1. SQL (Microsoft SQL Server) - for data cleaning and preparation
  2. Python - for customer reviews sentiment analysis
  3. Power BI - for visualization and insights
  4. PowerPoint - for presentation of insights and recommendations
 
 
-## 3. Understanding the Business Problem ad the Data
+## Understanding the Business Problem ad the Data
 
 ### Business Problem / Key Points
 
@@ -65,21 +65,21 @@ AdventureStore, an online retail business, is facing reduced customer engagement
           positive and negative feedbacks to enable products and service improvement
 
 
-## 4. Data Cleaning with SQL  
+## Data Cleaning with SQL  
 
 Cleaning the data with SQL and preparing for visualization and Insight - Check out the [SQL Code](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/SQL%20Query.sql) 
 
 ***
 
 
-## 5. Advance sentiment analysis with Python
+## Advance sentiment analysis with Python
 
 Carrying out sentiment analysis with Python - Check out the [Python Code](https://github.com/stanleyanthony/AdventureStore-Marketing-Campaign-Analysis/blob/main/The%20Codes/Python%20-%20customer_reviews_sentiment_analysis.py) 
 
 ***
 
 
-## 6. Visualization and Insights using Power BI
+## Visualization and Insights using Power BI
 
 ### ⭐ Insights from the Summary Overview Page
 
@@ -144,7 +144,7 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 ***
 
 
-## 7. Recommendations 💡
+## Recommendations 💡
 
 Each recommendation is align to fulfill the [Goals](#goals) of this project.
 
