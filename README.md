@@ -14,7 +14,7 @@
 
 ## Project Purpose
 
-Analyzing Adventure Store Marketing Data to identify why there is decrease in conversion rate, low customer engagements, reduced ROI despite increase in marketing budget; To evaluate the effectiveness of its current strategies, uncover opportunities to optimize its campaign efforts, and provide recommendations to increase conversion rates.
+The purpose of this project is to analyze Adventure Store Marketing Data to identify why there is decrease in conversion rate, low customer engagements, reduced ROI despite increase in marketing budget; To evaluate the effectiveness of its current strategies, uncover opportunities to optimize its campaign efforts, and provide recommendations to increase conversion rates.
 
 
 
