@@ -32,14 +32,14 @@ Analyzing Adventure Store Marketing Data to identify why there is decrease in co
 #### - Business Problem
 AdventureStore, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to me to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
-#### - Key Points
+#### Key Points
 1. Decreased Conversion Rate: Low conversion rate probably due to decreased in customer engagement
 2. Reduced Customer Engagement: The number of customer engagements have decreased over time which has led to low ROI
 3. High Marketing Campaign: Increased in campaign expenses
 4. Analysis on customer feedbacks: Understanding customer pain point, behavior, and opinions on products and services for better engagement and conversion rate.
 
 
-#### - Goals 
+#### Goals 
 
 1. **To Increased Conversion Rate:**
 
