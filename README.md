@@ -19,7 +19,7 @@ Analyzing Adventure Store Marketing Data to identify why there is decrease in co
 
 
 ## 2. Tools used
- 1. Microsoft SQL Server - for data cleaning and preparation
+ 1. SQL (Microsoft SQL Server) - for data cleaning and preparation
  2. Python - for customer reviews sentiment analysis
  3. Power BI - for visualization and insights
  4. PowerPoint - for presentation of insights and recommendations
