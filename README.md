@@ -9,7 +9,7 @@
  4. [Data Cleaning with SQL](#data-cleaning-with-sql)
  5. [Advance sentiment analysis with Python](#advance-sentiment-analysis-with-python)
  6. [Visualization and Insights using Power BI](#visualization-and-insights-using-power-bi)
- 7. [Recommendations](#recommendations)
+ 7. [Recommendations💡](#recommendations💡)
 
 
 ## Project Purpose
