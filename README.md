@@ -3,13 +3,13 @@
 
 ## Table of Content
 
- 1. Project Purpose
- 2. Tools used
- 3. Understanding the Business Problem and the Data
- 4. Data Cleaning with SQL
- 5. Advance sentiment analysis with Python
- 6. Visualization and Insights using Power BI
- 7. Recommendations
+ 1. [Project Purpose](#project-purpose)
+ 2. [Tools used](#tools-used)
+ 3. [Understanding the Business Problem and the Data](#understanding-the-business-problem-and-the-data)
+ 4. [Data Cleaning with SQL](#data-cleaning-with-sql)
+ 5. [Advance sentiment analysis with Python](#advance-sentiment-analysis-with-python)
+ 6. [Visualization and Insights using Power BI](#visualization-and-insights-using-power-bi)
+ 7. [Recommendations](#recommendations)
 
 
 ## 1. Project Purpose
@@ -43,7 +43,7 @@ AdventureStore, an online retail business, is facing reduced customer engagement
 
 1. **To Increased Conversion Rate:**
 
-   - **_Goals:_** Identify factors affecting conversion rate and provide recommendations 
+   - **_Goal:_** Identify factors affecting conversion rate and provide recommendations 
           to improve it.
    
    - **_Insight:_** Highlight key stages where visitors drop off and suggest ways 
@@ -51,14 +51,14 @@ AdventureStore, an online retail business, is facing reduced customer engagement
 
 2. **To Enhanced Customer Engagement:**
 
-   - **_Goals:_** Identify the type of contents that attract the highest engagement.
+   - **_Goal:_** Identify the type of contents that attract the highest engagement.
    
    - **_Insight:_** Analyze interaction with various types of marketing contents for 
           enhanced decision making
 
 3. **To Improve Customer Feedback Score:**
 
-   - **_Goals:_** Identify common patterns in customer reviews for better/improve 
+   - **_Goal:_** Identify common patterns in customer reviews for better/improve 
           decision making.
    
    - **_Insight:_** Analyze customer ratings and feedback to identify recurring 
@@ -146,7 +146,7 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
 ## 7. Recommendations 💡
 
-Each recommendation is align to fulfill the Goals of this project.
+Each recommendation is align to fulfill the [Goals](#goals) of this project.
 
 #### Increased Conversion Rate:
 
