@@ -25,7 +25,7 @@ Analyzing Adventure Store Marketing Data to identify why there is decrease in co
  4. PowerPoint - for presentation of insights and recommendations
 
 
-## Understanding the Business Problem amd the Data
+## Understanding the Business Problem and the Data
 
 ### Business Problem / Key Points / Goals
 
