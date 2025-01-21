@@ -29,7 +29,7 @@ Analyzing Adventure Store Marketing Data to identify why there is decrease in co
 
 ### Business Problem / Key Points
 
-#### - Business Problem
+#### Business Problem
 AdventureStore, an online retail business, is facing reduced customer engagement and conversion rates despite launching several new online marketing campaigns. They are reaching out to me to help conduct a detailed analysis and identify areas for improvement in their marketing strategies.
 
 #### Key Points
