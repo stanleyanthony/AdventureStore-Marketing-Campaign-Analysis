@@ -146,6 +146,32 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
 ## 7. Recommendations 💡
 
+Each recommendation is align to fulfill the Goals of this project.
+
+#### Increased Conversion Rate:
+
+ - To increase conversion rate, it is recommended that you target high performing product categories such as Ski Boots, Baseball Glove, Yoga Mat, Surf Board, and Cycling Helmet. As these will boost total sales up by 10% - 20%, because there are always communities behind these activities.
+   
+ - Adopt seasonal promotion and campaign during peak months like January, and September to December, to capitalize on the seasonal trends.
+   
+ - Since there is a high rate of drop off, it is also recommended to occasionally run a brief survey to understand why customer drop off before purchase, and develop way to reduce drop off rate such as recommending other related products.
+
+
+#### Enhanced Customer Engagement: 
+
+ - To turn around the decreasing views and engagements, post more engaging content such as videos and user generated contents. Carry out experiments on posts to know the most engaging content format for the audience.
+   
+ - Also, add call-to-action to both boosted contents and non boosted contents on social media and blog posts to keep users engaged. This might increase engagement by 7% - 10% especially during low engagement months like September to December.
+
+
+#### Improve Customer Feedback Score: 
+
+ - Address mixed and negative feedbacks by asking customers with negative feedback the reason for their unsatisfaction and ways you can better serve them. Develop improve plan to address this issues.
+   
+ - Consider following up with dissatisfied customers and encourage re-rating in other to boost average rating score above the 4.5 target.
+
+
+
 
 
 
