@@ -43,25 +43,25 @@ AdventureStore, an online retail business, is facing reduced customer engagement
 
 1. **To Increased Conversion Rate:**
 
-   **_Goals:_** Identify factors affecting conversion rate and provide recommendations 
+  - **_Goals:_** Identify factors affecting conversion rate and provide recommendations 
           to improve it.
    
-   **_Insight:_** Highlight key stages where visitors drop off and suggest ways 
+  - **_Insight:_** Highlight key stages where visitors drop off and suggest ways 
           to optimize the conversion funnel
 
-2. To Enhanced Customer Engagement:
+2. **To Enhanced Customer Engagement:**
 
-   **_Goals:_** Identify the type of contents that attract the highest engagement.
+  - **_Goals:_** Identify the type of contents that attract the highest engagement.
    
-   **_Insight:_** Analyze interaction with various types of marketing contents for 
+  - **_Insight:_** Analyze interaction with various types of marketing contents for 
           enhanced decision making
 
-3. To Improve Customer Feedback Score:
+3. **To Improve Customer Feedback Score:**
 
-   **_Goals:_** Identify common patterns in customer reviews for better/improve 
+  - **_Goals:_** Identify common patterns in customer reviews for better/improve 
           decision making.
    
-   **_Insight:_** Analyze customer ratings and feedback to identify recurring 
+  - **_Insight:_** Analyze customer ratings and feedback to identify recurring 
           positive and negative feedbacks to enable products and service improvement
 
 
