@@ -81,7 +81,7 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
 ## 6. Visualization and Insights using Power BI
 
-### Insightd from the Summary Overview Page
+### ⭐ Insights from the Summary Overview Page
 
 ![Overview Dashboard](https://github.com/user-attachments/assets/9e753c89-89e9-4e9c-b093-137cdd47beb0)
 
@@ -98,7 +98,7 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
 ***
 
-### Insights from the Conversion Rate of Products by month
+### ⭐ Insights from the Conversion Rate of Products by month
 
 ![Picture3](https://github.com/user-attachments/assets/d7cd34ec-1841-41c4-ab50-b15aabf00b36)
 
@@ -113,7 +113,7 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
 ***
 
-### Insights from Views, Clicks, and Likes
+### ⭐ Insights from Views, Clicks, and Likes
 
 ![Engagement 2](https://github.com/user-attachments/assets/cbd144d0-f8ab-482a-a597-a705c5dce133) ![Engagement 1](https://github.com/user-attachments/assets/906220ca-3c10-4885-842f-279c018d80d9)
 
@@ -128,7 +128,7 @@ Carrying out sentiment analysis with Python - Check out the [Python Code](https:
 
 ***
 
-### Insights from Customer Ratings and Sentiment Analysis Chart
+### ⭐ Insights from Customer Ratings and Sentiment Analysis Chart
 
 ![Customer review](https://github.com/user-attachments/assets/108df90e-99af-4421-93f2-1092a458e47d) ![Customer review 2](https://github.com/user-attachments/assets/9daff4bf-b99e-422a-88b9-06a59ecba2e2) 
 
