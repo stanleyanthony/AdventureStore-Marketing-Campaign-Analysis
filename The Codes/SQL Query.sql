@@ -77,7 +77,7 @@ FROM customer_reviews;
 SELECT *
 FROM engagement_data;
 
--- Cleaning the engagementtable
+-- Cleaning the engagement table
 SELECT 
 	EngagementID,
 	ContentID,
